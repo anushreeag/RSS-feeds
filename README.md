@@ -25,7 +25,7 @@ The following **required** functionality is completed:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-Video Walkthrough : (https://github.com/anushreeag/RSS-feeds)
+Video Walkthrough : (https://imgur.com/Omrf65F.gif)
 
 ## License
 
