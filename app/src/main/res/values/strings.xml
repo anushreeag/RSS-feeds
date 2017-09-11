@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Feed Reader</string>
+
+    <string name="feed_title">Feed Information</string>
+    <string name="img_title">Supersonic Flight Campaign Continues at Kennedy Space Center</string>
+
+    <string name="img_date">Mon, 28 Aug 2017 10:22 EDT</string>
+
+
+    <string name="img_desc">"A NASA F-18 jet takes off from the agency\'s Shuttle
+        Landing Facility at NASA\'s Kennedy Space Center in Florida on Aug. 23, 2017.
+        The F-18 jets fly at supersonic speeds while agency researchers measure the effects of low-altitude
+        turbulence caused by sonic booms, part of NASA&#039;s Sonic Booms in Atmospheric Turbulence,
+        or SonicBAT II Program."</string>
+
+    <string name="wallpaper">Set the wallpaper</string>
+    <string name="title_activity_feed_display">Feed Reader</string>
+    <string name="title_nasa">Click on any of the below (NASA) RSS feeds</string>
+    <string name="kepler_news">"Kepler news and features"</string>
+    <string name="chandra">Chandra Mission</string>
+    <string name="solar_system">Solar System</string>
+    <string name="hurricane">Hurricane Updates</string>
+</resources>
