@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 
-<img src='https://imgur.com/mVrwwmu.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/mVrwwmu.gif?raw=true' title='Video Walkthrough' width='200px' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
