@@ -16,11 +16,11 @@ The following **required** functionality is completed:
 * [x] Glide library is used for faster loading of images.
 
 
+
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/Omrf65F.gif' title='Rss feed Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/Omrf65F.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
